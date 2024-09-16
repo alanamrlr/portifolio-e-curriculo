@@ -51,6 +51,11 @@ body {
     gap: 82px;
 }
 
+.apresentacao__conteudo__curriculo{
+    display: flex;
+    gap: 40px;
+}
+
 .apresentacao__conteudo{
     width: 50%;
     display: flex;
