@@ -170,6 +170,10 @@ body {
         padding: 10%;
     }
 
+    .apresentacao__conteudo__texto{
+        font-size: 1rem;
+    }
+
     .rodape{
         padding: 10px;
     }
