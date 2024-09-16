@@ -155,3 +155,22 @@ body {
         width: auto;
     }
 }
+
+@media(max-width:768px){
+    .cabecalho{
+        padding: 5% 10%;
+    }
+
+    .cabecalho__menu{
+        gap: 10px;
+        flex-direction: column;
+    }
+
+    .apresentacao{
+        padding: 10%;
+    }
+
+    .rodape{
+        padding: 10px;
+    }
+}
