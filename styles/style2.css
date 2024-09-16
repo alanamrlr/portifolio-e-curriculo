@@ -186,6 +186,9 @@ body {
         font-size: 1.75rem;
     }
 
+    .apresentacao__links__navegacao{
+        font: 1rem;
+    }
     .rodape{
         padding: 10px;
         font-size: 1rem;
