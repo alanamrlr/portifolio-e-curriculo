@@ -166,15 +166,28 @@ body {
         flex-direction: column;
     }
 
+    .cabecalho__menu__link{
+        font-size: 1rem
+    }
+
     .apresentacao{
         padding: 10%;
+    }
+
+    .apresentacao__conteudo__curriculo{
+        gap: 20px;
     }
 
     .apresentacao__conteudo__texto{
         font-size: 1rem;
     }
 
+    .apresentacao__conteudo__titulo{
+        font-size: 1.75rem;
+    }
+
     .rodape{
         padding: 10px;
+        font-size: 1rem;
     }
 }
