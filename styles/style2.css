@@ -125,6 +125,14 @@ body {
     color: var(--cor-terciaria);
 }
 
+.links__certificados:hover{
+    color: var(--cor-hover-links-navegacao);
+}
+
+.links__certificados:active{
+    color: var(--cor-active-menu-link);
+}
+
 .apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover-links-navegacao);
 }
