@@ -6,6 +6,8 @@
     --cor-terciaria: #C68FE6;
     --cor-hover-links-navegacao: #6C48C5;
     --cor-hover-menu-link: #D310E0;
+    --cor-active-menu-link: #610467;
+
 
     --fonte-primaria: 'Krona One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
@@ -42,6 +44,10 @@ body {
 
 .cabecalho__menu__link:hover {
     color: var(--cor-hover-menu-link);
+}
+
+.cabecalho__menu__link:active {
+    color: var(--cor-active-menu-link);
 }
 
 .apresentacao{
